@@ -25,14 +25,19 @@
 
 - 기획부터 출시까지 모든 과정에 참여 하였습니다.
 - 모든 UI는 코드로 이루어져 있습니다.
-- VIPER 아키텍쳐 패턴을 적요 하였습니다.
+- VIPER 아키텍쳐 패턴을 적용 하였습니다.
 - 팀원과 여러가지 컨벤션들을 정하여 체계 아래 개발하였습니다.
 - 다양한 Custom한 UI들이 적용 되어있습니다.
 
 - 유려한 뷰 인터렉션에 많은 노력을 한 프로젝트 입니다!
-
+- 
+<img src="https://user-images.githubusercontent.com/54730280/109643712-f70c7900-7b97-11eb-88b2-0fc8e5b47c2a.gif" width="200" height="400" />
 
 ![인트로](https://user-images.githubusercontent.com/54730280/109643712-f70c7900-7b97-11eb-88b2-0fc8e5b47c2a.gif)
+
+
+
+
 ## 블로그
 
 https://norancom.tistory.com
