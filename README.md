@@ -32,7 +32,7 @@
 - 유려한 뷰 인터렉션에 많은 노력을 한 프로젝트 입니다!
 
 
-<img src=![인트로](https://user-images.githubusercontent.com/54730280/109643712-f70c7900-7b97-11eb-88b2-0fc8e5b47c2a.gif) width="250" height="250"/>
+![인트로](https://user-images.githubusercontent.com/54730280/109643712-f70c7900-7b97-11eb-88b2-0fc8e5b47c2a.gif)
 ## 블로그
 
 https://norancom.tistory.com
