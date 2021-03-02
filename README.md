@@ -32,9 +32,10 @@
 
 - 여러 Custom한 UI들이 적용 되어있습니다.
 
+
 - 유려한 뷰 인터렉션에 많은 노력을 한 프로젝트 입니다!
 
-
+<br>
 <img src="https://user-images.githubusercontent.com/54730280/109647966-5b7e0700-7b9d-11eb-8cf3-f4941fe3d311.gif" width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/54730280/109645441-2de38e80-7b9a-11eb-8b01-3409d7792d27.gif" width="200" height="400" />
 
