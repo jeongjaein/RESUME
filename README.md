@@ -30,11 +30,10 @@
 - 다양한 Custom한 UI들이 적용 되어있습니다.
 
 - 유려한 뷰 인터렉션에 많은 노력을 한 프로젝트 입니다!
-- 
+
+![Uploading 카테고리애니메이션.gif…]()
+
 <img src="https://user-images.githubusercontent.com/54730280/109643712-f70c7900-7b97-11eb-88b2-0fc8e5b47c2a.gif" width="200" height="400" />
-
-![인트로](https://user-images.githubusercontent.com/54730280/109643712-f70c7900-7b97-11eb-88b2-0fc8e5b47c2a.gif)
-
 
 
 
