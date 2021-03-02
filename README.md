@@ -21,6 +21,14 @@
 
 
 
+
+
+
+
+
+
+
+
 터미널 상세보기를 원한다면? 👉 https://github.com/iron-mental/americano
 
 - 기획부터 출시까지 모든 과정에 참여 하였습니다.
@@ -42,6 +50,8 @@
 
 https://norancom.tistory.com
 
+<br>
+<br><br><br><br><br><br><br><br>
 
 
 
