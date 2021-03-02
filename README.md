@@ -51,7 +51,7 @@ https://norancom.tistory.com
 
 ```터미널 프로젝트 VIPER 적용기``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 https://norancom.tistory.com/6 
 
-```UITextField 커스텀``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 https://norancom.tistory.com/7
+```UITextField 커스텀``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 https://norancom.tistory.com/7
 
 
 
