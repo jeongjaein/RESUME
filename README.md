@@ -31,7 +31,8 @@
 
 - 유려한 뷰 인터렉션에 많은 노력을 한 프로젝트 입니다!
 
-![Uploading 카테고리애니메이션.gif…]()
+![카테고리애니메이션](https://user-images.githubusercontent.com/54730280/109645441-2de38e80-7b9a-11eb-8b01-3409d7792d27.gif)
+<img src="https://user-images.githubusercontent.com/54730280/109645441-2de38e80-7b9a-11eb-8b01-3409d7792d27.gif" width="200" height="400" />
 
 
 <img src="https://user-images.githubusercontent.com/54730280/109643712-f70c7900-7b97-11eb-88b2-0fc8e5b47c2a.gif" width="200" height="400" />
