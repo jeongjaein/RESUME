@@ -26,17 +26,17 @@
 <br><br><br>
 터미널 상세보기를 원한다면? 👉 https://github.com/iron-mental/americano (추후 터미널 리드미 작성)
 <br><br><br><br>
-- __VIPER__ 아키텍쳐 패턴을 적용 하였습니다.
+- VIPER 아키텍쳐 패턴을 적용 하였습니다.
 
-- 모든 UI는 __코드__로 이루어져 있습니다.
+- 모든 UI는 코드로 이루어져 있습니다.
 
-- SwiftLint 및 팀원과 여러가지 __컨벤션__들을 정하여 체계 아래 개발합니다.
+- SwiftLint 및 팀원과 여러가지 컨벤션들을 정하여 체계 아래 개발합니다.
 
-- 여러 __Custom한 View__들이 적용 되어있습니다.(Alert Dialog, map위의 pin 애니메이션, scrollview offset 관리, Loading gif 관리)
+- 여러 Custom View들이 적용 되어있습니다.(Alert Dialog, map위의 pin 애니메이션, scrollview offset 관리, Loading gif 관리)
 
-- autolayout warning 못본 체 지나치지 않고 symbolicbreakpoint을 걸어 콜스택으로 코드를 추적해 꼭 관리합니다.
+- Autolayout warning들을 못본 체 지나치지 않고 symbolicbreakpoint을 걸어 콜스택으로 코드를 추적해 꼭 관리합니다.
 
-- 공통된 부분이 있는 로직, 뷰 등을 Base Component 화 시켜서 관리합니다. (항상 공통된 작업이 있는지 생각하고 효율을 높이기 위해 노력합니다.)
+- 공통된 부분이 있는 로직 이나 뷰 들을 Base Component 화 시키거나 Extension을 적극 활용하여 효율을 높히는데 노력합니다.
 
 - merge가 되는 순간 나의 코드가 아닌 우리의 코드가 된다고 생각합니다. pull request와 코드리뷰를 통한 merge를 하고 있습니다.
 
@@ -44,7 +44,6 @@
 
 - 앱 내 의사소통들 90% 이상 protocol에 정의를 해두어 명확하게 관리하고 있습니다.
 
-- 
 
 
 <br>
