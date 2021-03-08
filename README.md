@@ -26,13 +26,13 @@
 <br><br><br>
 터미널 상세보기를 원한다면? 👉 https://github.com/iron-mental/americano (추후 터미널 리드미 작성)
 <br><br><br><br>
-- VIPER 아키텍쳐 패턴을 적용 하였습니다.
+- __VIPER__ 아키텍쳐 패턴을 적용 하였습니다.
 
-- 모든 UI는 코드로 이루어져 있습니다.
+- 모든 UI는 __코드__로 이루어져 있습니다.
 
-- SwiftLint 및 팀원과 여러가지 컨벤션들을 정하여 체계 아래 개발합니다.
+- SwiftLint 및 팀원과 여러가지 __컨벤션__들을 정하여 체계 아래 개발합니다.
 
-- 여러 Custom한 View들이 적용 되어있습니다.(Alert Dialog, map위의 pin 애니메이션, scrollview offset 관리, Loading gif 관리)
+- 여러 __Custom한 View__들이 적용 되어있습니다.(Alert Dialog, map위의 pin 애니메이션, scrollview offset 관리, Loading gif 관리)
 
 - autolayout warning 못본 체 지나치지 않고 symbolicbreakpoint을 걸어 콜스택으로 코드를 추적해 꼭 관리합니다.
 
