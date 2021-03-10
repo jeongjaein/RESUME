@@ -23,10 +23,12 @@
 ## 개인 프로젝트
 
 ### 터미널 - 개발 스터디 찾기 플랫폼 (iOS 담당 👨🏻‍💻)
+터미널 상세보기를 원한다면? 👉 https://github.com/iron-mental/americano (추후 터미널 리드미 작성)
 <br><br><br>
+#### 사용 기술
 ```Swift``` ```VIPER```  ```Socket.IO``` ```JWT``` ```REST API```<br>
 ```Google Analytics``` ```Google Firebase Crashlytics``` ```Adobe XD```<br><br><br>
-터미널 상세보기를 원한다면? 👉 https://github.com/iron-mental/americano (추후 터미널 리드미 작성)
+
 <br><br><br><br>
 - VIPER 아키텍쳐 패턴을 적용 하였습니다.
 
