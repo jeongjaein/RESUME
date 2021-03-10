@@ -1,6 +1,6 @@
 <br><br>
-## 간략 정보
-- 이름 : 정재인
+# 정재인
+
 
 
 - 이메일 : wodls96@gmail.com
@@ -20,10 +20,12 @@
 - __비효율 적인 일들을 어떻게 하면 효율적으로 바꿀 수 있을까 항상 고민합니다.__
 
 <br><br>
-## 프로젝트
+## 개인 프로젝트
 
-### 터미널 - 개발 스터디 찾기 플랫폼 - iOS 담당 👨🏻‍💻
+### 터미널 - 개발 스터디 찾기 플랫폼 (iOS 담당 👨🏻‍💻)
 <br><br><br>
+```Swift``` ```VIPER```  ```Socket.IO``` ```JWT``` ```REST API```<br>
+```Google Analytics``` ```Google Firebase Crashlytics``` ```Adobe XD```<br><br><br>
 터미널 상세보기를 원한다면? 👉 https://github.com/iron-mental/americano (추후 터미널 리드미 작성)
 <br><br><br><br>
 - VIPER 아키텍쳐 패턴을 적용 하였습니다.
@@ -66,8 +68,11 @@ https://norancom.tistory.com
 ```터미널 프로젝트 VIPER 적용기``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 https://norancom.tistory.com/6 
 
 ```UITextField 커스텀``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 https://norancom.tistory.com/7
+<br><br>
+## 학력
+### 백석대학교
 
-
-
+- 소프트웨어전공 전공 • 학사
+- 3.58 학점 / 4.5 학점
 
 
