@@ -22,15 +22,12 @@
 <br><br>
 ## 개인 프로젝트
 <img src="https://user-images.githubusercontent.com/54730280/110612027-24c67300-81d3-11eb-8577-d5eebbe766b4.png" width="70" height="70" />
-
-### 터미널 - 개발 스터디 찾기 플랫폼 (iOS 담당 👨🏻‍💻)
+### 터미널 - 개발 스터디 모임 (iOS 👨🏻‍💻)
 터미널 상세보기를 원한다면? 👉 https://github.com/iron-mental/americano (추후 터미널 리드미 작성)
 <br><br><br>
 #### 사용 기술
 ```Swift``` ```VIPER```  ```Socket.IO``` ```JWT``` ```REST API```<br>
-```Google Analytics``` ```Google Firebase Crashlytics``` ```Adobe XD```<br><br><br>
-
-<br><br><br><br>
+```Google Analytics``` ```Google Firebase Crashlytics``` ```Adobe XD```<br><br>
 - VIPER 아키텍쳐 패턴을 적용 하였습니다.
 
 - 모든 UI는 코드로 이루어져 있습니다.
