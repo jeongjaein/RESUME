@@ -21,7 +21,7 @@
 
 <br><br>
 ## 개인 프로젝트
-![image](https://user-images.githubusercontent.com/54730280/110612027-24c67300-81d3-11eb-8577-d5eebbe766b4.png)
+<img src="https://user-images.githubusercontent.com/54730280/110612027-24c67300-81d3-11eb-8577-d5eebbe766b4.png" width="20" height="20" />
 
 ### 터미널 - 개발 스터디 찾기 플랫폼 (iOS 담당 👨🏻‍💻)
 터미널 상세보기를 원한다면? 👉 https://github.com/iron-mental/americano (추후 터미널 리드미 작성)
